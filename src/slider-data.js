@@ -11,22 +11,22 @@ export const sliderData = [
     },
     {
       image: "https://i.ibb.co/8r7WYJh/slide3.jpg",
-      heading: "Slide Three",
-      desc: "This is the description of slide three Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi quos quas, voluptatum nesciunt illum exercitationem.",
+      heading: "Moon Tree",
+      desc: "Beautiful Tree under Moonlight",
     },
     {
       image: "https://i.ibb.co/58Mq6Mb/slide1.jpg",
-      heading: "Slide One",
-      desc: "This is the description of slide one Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi quos quas, voluptatum nesciunt illum exercitationem.",
+      heading: "Hanging Parachute",
+      desc: "A hanging Parachute under moonlight",
     },
     {
-      image: "https://i.ibb.co/58Mq6Mb/slide1.jpg",
-      heading: "Slide One",
-      desc: "This is the description of slide one Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi quos quas, voluptatum nesciunt illum exercitationem.",
+      image: "https://images.pexels.com/photos/2649403/pexels-photo-2649403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      heading: "Photo Of Body Of Water",
+      desc: "Thượng Lâm, Tuyên Quang, Vietnam.",
     },
     {
-      image: "https://i.ibb.co/58Mq6Mb/slide1.jpg",
-      heading: "Slide One",
-      desc: "This is the description of slide one Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi quos quas, voluptatum nesciunt illum exercitationem.",
+      image: "https://images.pexels.com/photos/33227/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      heading: "White Row Boat on Body of Water",
+      desc: "Beautiful Scene",
     },
   ];
