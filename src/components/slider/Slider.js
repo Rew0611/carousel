@@ -90,29 +90,29 @@ const Slider = () => {
       <div className="flex flex-wrap w-1/2">
         <div className="w-1/2 p-1 md:p-2">
           <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-            src="https://i.ibb.co/58Mq6Mb/slide1.jpg" />
+            src="https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
         </div>
         <div className="w-1/2 p-1 md:p-2">
           <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-            src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp" />
+            src="https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&w=600" />
         </div>
         <div className="w-full p-1 md:p-2">
           <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-            src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" />
+            src="https://i.ibb.co/8r7WYJh/slide3.jpg" />
         </div>
       </div>
       <div className="flex flex-wrap w-1/2">
         <div className="w-full p-1 md:p-2">
           <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-            src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+            src="" />
         </div>
         <div className="w-1/2 p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-            src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp" />
+            src="https://images.pexels.com/photos/2649403/pexels-photo-2649403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
         </div>
         <div className="w-1/2 p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-            src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp" />
+            src="https://images.pexels.com/photos/33227/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
         </div>
       </div>
     </div>
