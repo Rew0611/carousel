@@ -104,7 +104,7 @@ const Slider = () => {
       <div className="flex flex-wrap w-1/2">
         <div className="w-full p-1 md:p-2">
           <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-            src="" />
+            src="https://i.ibb.co/58Mq6Mb/slide1.jpg" />
         </div>
         <div className="w-1/2 p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
